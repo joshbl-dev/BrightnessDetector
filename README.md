@@ -1,0 +1,2 @@
+# BrightnessDetector
+ Made for MacOS
